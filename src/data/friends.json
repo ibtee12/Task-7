@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Chen",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "sarah.chen@gmail.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["college", "close friend"],
+    "bio": "Roommate from sophomore year. We still do our annual hiking trip every fall.",
+    "goal": 14,
+    "next_due_date": "2026-07-04"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Johnson",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "marcus.j@outlook.com",
+    "days_since_contact": 22,
+    "status": "overdue",
+    "tags": ["work", "mentor"],
+    "bio": "My first manager who taught me everything about product design. Always good for career advice.",
+    "goal": 21,
+    "next_due_date": "2026-06-22"
+  },
+  {
+    "id": 3,
+    "name": "Emma Wilson",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "emma.wilson@proton.me",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["family", "cousin"],
+    "bio": "My cousin on mom's side. We grew up two streets apart and share a love of old films.",
+    "goal": 14,
+    "next_due_date": "2026-06-27"
+  },
+  {
+    "id": 4,
+    "name": "Lisa Nakamura",
+    "picture": "https://randomuser.me/api/portraits/women/65.jpg",
+    "email": "lisa.nakamura@gmail.com",
+    "days_since_contact": 31,
+    "status": "overdue",
+    "tags": ["work", "travel"],
+    "bio": "Met on a work trip to Tokyo. We bonded over ramen and have stayed in touch ever since.",
+    "goal": 21,
+    "next_due_date": "2026-06-15"
+  },
+  {
+    "id": 5,
+    "name": "James Wright",
+    "picture": "https://randomuser.me/api/portraits/men/52.jpg",
+    "email": "james.wright@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["hobby", "gym buddy"],
+    "bio": "My climbing partner at the local gym. We push each other to try harder routes every week.",
+    "goal": 7,
+    "next_due_date": "2026-06-29"
+  },
+  {
+    "id": 6,
+    "name": "Aisha Patel",
+    "picture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "email": "aisha.patel@yahoo.com",
+    "days_since_contact": 18,
+    "status": "almost due",
+    "tags": ["college", "book club"],
+    "bio": "We started a book club in our final year that somehow still runs. Loves a good mystery novel.",
+    "goal": 21,
+    "next_due_date": "2026-06-28"
+  },
+  {
+    "id": 7,
+    "name": "Tom Baker",
+    "picture": "https://randomuser.me/api/portraits/men/76.jpg",
+    "email": "tom.baker@gmail.com",
+    "days_since_contact": 8,
+    "status": "on-track",
+    "tags": ["neighbor", "close friend"],
+    "bio": "Lives next door with his golden retriever, Biscuit. Our weekend coffee chats are a highlight.",
+    "goal": 14,
+    "next_due_date": "2026-07-01"
+  },
+  {
+    "id": 8,
+    "name": "Olivia Martinez",
+    "picture": "https://randomuser.me/api/portraits/women/90.jpg",
+    "email": "olivia.martinez@icloud.com",
+    "days_since_contact": 27,
+    "status": "overdue",
+    "tags": ["family", "sister"],
+    "bio": "My younger sister, now living abroad in Barcelona. We try to video call but life gets busy.",
+    "goal": 14,
+    "next_due_date": "2026-06-18"
+  },
+  {
+    "id": 9,
+    "name": "Ryan O'Brien",
+    "picture": "https://randomuser.me/api/portraits/men/19.jpg",
+    "email": "ryan.obrien@gmail.com",
+    "days_since_contact": 14,
+    "status": "almost due",
+    "tags": ["work", "former colleague"],
+    "bio": "Sat next to me for three years at my old job. The best person to grab a beer and vent with.",
+    "goal": 21,
+    "next_due_date": "2026-06-30"
+  },
+  {
+    "id": 10,
+    "name": "Priya Sharma",
+    "picture": "https://randomuser.me/api/portraits/women/33.jpg",
+    "email": "priya.sharma@gmail.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["close friend", "travel"],
+    "bio": "My go-to travel buddy. We've backpacked through five countries and counting together.",
+    "goal": 10,
+    "next_due_date": "2026-07-03"
+  }
+]
