@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# SPA fallback so reloading any client-side route (e.g. /timeline, /friend/3)
+# serves index.html instead of a 404.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
