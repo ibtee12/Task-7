@@ -1,8 +1,17 @@
+import Banner from "../components/home/Banner.jsx";
+import SummaryCards from "../components/home/SummaryCards.jsx";
+
 export default function Home() {
   return (
-    <main className="mx-auto max-w-6xl px-4 py-16">
-      <h1 className="text-3xl font-bold text-brand-700">Home</h1>
-      <p className="mt-2 text-slate-500">Home page — coming up next.</p>
+    <main className="pb-16">
+      <Banner />
+      <SummaryCards />
+
+      {/* Your Friends grid arrives in the next step */}
+      <section className="mx-auto mt-12 max-w-6xl px-4">
+        <h2 className="text-xl font-bold text-ink">Your Friends</h2>
+        <p className="mt-2 text-sm text-slate-400">Friend cards coming soon.</p>
+      </section>
     </main>
   );
 }
